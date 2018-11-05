@@ -1,6 +1,6 @@
 # PhishNet
 
-PhishNetdetects unusual behaviour in user credit card transactions and sends an immediate alert, notifying users of fraudulent activity in their transactions via email. A transaction is marked as suspicious through our Machine Learning algorithm based on prior user activity. 
+PhishNet is a web platform that detects unusual behaviour in user credit card transactions and sends an immediate alert, notifying users of fraudulent activity in their transactions via email. A transaction is marked as suspicious through our Machine Learning algorithm based on prior user activity. 
 
 The alert to users clearly details the time of transaction, amount of transactions, and the location the transaction took place. Users have the option to dismiss and act upon the notification.
 
