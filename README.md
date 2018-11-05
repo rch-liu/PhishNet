@@ -31,5 +31,3 @@ The backend system for our ECHacks project
 
 - Push
   ```git push origin branch-name```
-
-- Tell Jason
